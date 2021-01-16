@@ -1,9 +1,7 @@
-package com.rbddevs.splashy
+package com.zhangqian.xyzsplashy
 
 import android.app.Activity
-import android.content.DialogInterface
 import android.content.Intent
-import android.graphics.Typeface
 import android.widget.ImageView
 
 class Splashy(private var activity: Activity) {

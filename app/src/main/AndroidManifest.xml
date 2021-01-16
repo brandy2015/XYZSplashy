@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.zhangqian.xyzsplashy">
     <application>
-<!--        <activity android:name=".SplashyActivity"/>-->
+        <activity android:name=".SplashyActivity"/>
     </application>
 
 </manifest>

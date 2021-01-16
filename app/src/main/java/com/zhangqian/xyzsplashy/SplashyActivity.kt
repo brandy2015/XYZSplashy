@@ -1,4 +1,4 @@
-package com.rbddevs.splashy
+package com.zhangqian.xyzsplashy
 
 import android.content.pm.ApplicationInfo
 import android.graphics.Color
@@ -14,7 +14,6 @@ import android.view.animation.*
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
-import com.zhangqian.xyzsplashy.R
 import kotlinx.android.synthetic.main.activity_splashy.*
 
 
