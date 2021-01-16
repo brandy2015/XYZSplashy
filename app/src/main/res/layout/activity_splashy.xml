@@ -12,14 +12,18 @@
         android:layout_height="731dp"
         android:background="@color/white"
         android:contentDescription="@string/background"
-        android:scaleType="centerCrop" />
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 
     <ImageView
         android:id="@+id/ivLogo"
         android:layout_width="306dp"
         android:layout_height="106dp"
-        android:layout_marginBottom="40dp"
+        android:layout_marginBottom="50dp"
         android:adjustViewBounds="true"
         android:contentDescription="@string/logo"
         android:src="@android:drawable/zoom_plate"
