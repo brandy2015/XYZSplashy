@@ -8,8 +8,8 @@
 
     <ImageView
         android:id="@+id/ivBackground"
-        android:layout_width="411dp"
-        android:layout_height="731dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         android:background="@color/white"
         android:contentDescription="@string/background"
         android:scaleType="centerCrop"
